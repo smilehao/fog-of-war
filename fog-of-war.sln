@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fog-of-war.Plugins", "fog-of-war.Plugins.csproj", "{91C92638-A711-98DF-8D6B-73AF68D5170A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fog-of-war", "fog-of-war.csproj", "{D45F6356-E070-CB71-8261-EA14F86B5EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fog-of-war.Editor", "fog-of-war.Editor.csproj", "{D19423AA-841D-26E1-DDCA-585C3B8D6EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C92638-A711-98DF-8D6B-73AF68D5170A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C92638-A711-98DF-8D6B-73AF68D5170A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C92638-A711-98DF-8D6B-73AF68D5170A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C92638-A711-98DF-8D6B-73AF68D5170A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45F6356-E070-CB71-8261-EA14F86B5EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45F6356-E070-CB71-8261-EA14F86B5EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45F6356-E070-CB71-8261-EA14F86B5EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45F6356-E070-CB71-8261-EA14F86B5EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19423AA-841D-26E1-DDCA-585C3B8D6EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19423AA-841D-26E1-DDCA-585C3B8D6EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19423AA-841D-26E1-DDCA-585C3B8D6EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19423AA-841D-26E1-DDCA-585C3B8D6EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
