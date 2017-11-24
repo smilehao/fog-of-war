@@ -8,7 +8,7 @@
 
 public class FOWRender : MonoBehaviour
 {
-    // 
+    // 这里设置战争迷雾颜色
     public Color unexploredColor = new Color(0f, 0f, 0f, 250f / 255f);
     public Color exploredColor = new Color(0f, 0f, 0f, 200f / 255f);
     Material mMat;
